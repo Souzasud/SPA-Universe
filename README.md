@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Souzasud/spa-universe/assets/133075307/927f2629-3657-43b5-b11a-91160535a0be)
 
-[Click para acessar o projeto](http://127.0.0.1:5503/home)
+[Click para acessar o projeto](http://127.0.0.1:5503/index.html)
 
 # 💻 Sobre o desafio
 
